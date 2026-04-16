@@ -32,7 +32,12 @@ This is a BDD-based automation framework built using:
 * `data/` → test data
 
 
-## Setup
+## Virtual Env Setup
+1] Create virtual environment
+   python -m venv venv
+2] Activate virtual environment
+   venv\Scripts\activate
+3] Install dependencies
 pip install -r requirements.txt
 
 
