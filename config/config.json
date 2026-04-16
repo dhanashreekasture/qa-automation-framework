@@ -1,0 +1,42 @@
+{
+  "dev": {
+    "base_url": "https://dev.api.healthcare_base_url.com",
+    "ui_url": "https://dev.ui.healthcare_base_url.com",
+    "db": {
+      "host": "DEV_DB_HOST",
+      "database": "DEV_DB_NAME",
+      "user": "DEV_DB_USER",
+      "password": "DEV_DB_PASSWORD"
+    }
+  },
+  "qa": {
+    "base_url": "https://qa.api.healthcare_base_url.com",
+    "ui_url": "https://dqa.ui.healthcare_base_url.com",
+    "db": {
+      "host": "QA_DB_HOST",
+      "database": "QA_DB_NAME",
+      "user": "QA_DB_USER",
+      "password": "QA_DB_PASSWORD"
+    }
+  },
+  "uat": {
+    "base_url": "https://uat.api.healthcare_base_url.com",
+    "ui_url": "https://uat.ui.healthcare_base_url.com",
+    "db": {
+      "host": "UAT_DB_HOST",
+      "database": "UAT_DB_NAME",
+      "user": "UAT_DB_USER",
+      "password": "UAT_DB_PASSWORD"
+    }
+  },
+  "prod": {
+    "base_url": "https://api.healthcare_base_url.com",
+    "ui_url": "https://prod.ui.healthcare_base_url.com",
+    "db": {
+      "host": "PROD_DB_HOST",
+      "database": "PROD_DB_NAME",
+      "user": "PROD_DB_USER",
+      "password": "PROD_DB_PASSWORD"
+    }
+  }
+}

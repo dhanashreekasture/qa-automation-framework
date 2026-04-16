@@ -1,0 +1,9 @@
+behave
+pandas
+openpyxl
+requests
+selenium
+psycopg2-binary
+allure-behave
+jsonschema
+python-dotenv
